@@ -8,7 +8,7 @@ Explore dynamic dashboards built using **RShiny**, combining data preprocessing,
 
 An interactive dashboard based on survey data analyzing how users engage with websites, their business types, and likelihood of recommending services.
 
-![GoDaddy Dashboard Screenshot](Dashboard-Rshiny/Screenshot%202025-04-07%20at%204.02.50%20in%20the%20afternoon.png)
+![GoDaddy Dashboard Screenshot](https://github.com/choulythy/Dashboard-Rshiny-/blob/main/Screenshot%202025-04-07%20at%204.01.45%20in%20the%20afternoon.png)
 
 **🔍 Key Steps:**
 - Imported and merged two Excel sheets (survey data + coded value descriptions)
